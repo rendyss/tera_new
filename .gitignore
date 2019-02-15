@@ -8,8 +8,6 @@
 # Ignore everything in the "wp-content" directory, except the "plugins" and "themes" directories.
 wp-content/*
 !wp-content/themes/
-!wp-content/plugins
-!wp-content/uploads
 
 # Ignore everything in the "themes" directory, except the themes you specify
 wp-content/themes/*
