@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="14px" height="20px" viewBox="0 0 14 20" enable-background="new 0 0 14 20" xml:space="preserve">
+<title>icon-marker</title>
+<desc>Created with Sketch.</desc>
+<g id="Components">
+	<g id="Artboard" transform="translate(-705.000000, -232.000000)">
+		<g id="icon-marker" transform="translate(705.000000, 232.000000)">
+			<path fill="#FFD596" d="M12.309,2.801C11.076,1.257,9.154,0.263,7,0.263c-3.711,0-6.731,2.951-6.731,6.579
+				c0,5.068,5.598,11.512,6.73,12.763c1.132-1.255,6.731-7.721,6.731-12.763C13.73,5.32,13.199,3.917,12.309,2.801z M7,10.333
+				c-1.864,0-3.375-1.511-3.375-3.375c0-1.864,1.511-3.375,3.375-3.375c1.865,0,3.375,1.511,3.375,3.375
+				C10.374,8.822,8.864,10.333,7,10.333z"/>
+			<circle fill="none" stroke="#FF9900" stroke-width="0.5" stroke-miterlimit="10" cx="7" cy="6.958" r="3.375"/>
+			<path fill="#FF9900" d="M7,0C3.133,0,0,3.063,0,6.842C0,12.621,7,20,7,20s7-7.407,7-13.158C14,3.063,10.865,0,7,0z M6.999,19.205
+				c-1.461-1.648-6.461-7.639-6.461-12.363c0-3.483,2.898-6.316,6.461-6.316s6.461,2.833,6.461,6.316
+				C13.461,11.543,8.459,17.553,6.999,19.205z"/>
+		</g>
+	</g>
+</g>
+</svg>

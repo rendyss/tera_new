@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="36px" viewBox="0 0 38 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-proposal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1207.000000, -114.000000)" fill-rule="nonzero">
+            <g id="icon-proposal" transform="translate(1207.000000, 114.000000)">
+                <g id="Group">
+                    <rect id="Rectangle-path" fill="#FFFFFF" x="1" y="1" width="37" height="35"></rect>
+                    <path d="M37,1.125 L37,34.875 L1,34.875 L1,1.125 L37,1.125 L37,1.125 Z M38,0 L0,0 L0,36 L38,36 L38,0 L38,0 Z" id="Shape" fill="#FF9900"></path>
+                </g>
+                <rect id="Rectangle-path" fill="#FFD596" x="1" y="1" width="36" height="5"></rect>
+                <path d="M28,12 L9,12 C8.448,12 8,11.552 8,11 L8,11 C8,10.448 8.448,10 9,10 L28,10 C28.552,10 29,10.448 29,11 L29,11 C29,11.552 28.552,12 28,12 Z" id="Shape" fill="#FF9900"></path>
+                <path d="M10.5,18 L8.5,18 C8.224,18 8,17.776 8,17.5 L8,17.5 C8,17.224 8.224,17 8.5,17 L10.5,17 C10.776,17 11,17.224 11,17.5 L11,17.5 C11,17.776 10.776,18 10.5,18 Z" id="Shape" fill="#FF9900"></path>
+                <path d="M28.5,18 L13.5,18 C13.224,18 13,17.776 13,17.5 L13,17.5 C13,17.224 13.224,17 13.5,17 L28.5,17 C28.776,17 29,17.224 29,17.5 L29,17.5 C29,17.776 28.776,18 28.5,18 Z" id="Shape" fill="#FF9900"></path>
+                <path d="M10.5,22 L8.5,22 C8.224,22 8,21.776 8,21.5 L8,21.5 C8,21.224 8.224,21 8.5,21 L10.5,21 C10.776,21 11,21.224 11,21.5 L11,21.5 C11,21.776 10.776,22 10.5,22 Z" id="Shape" fill="#FF9900"></path>
+                <path d="M28.5,22 L13.5,22 C13.224,22 13,21.776 13,21.5 L13,21.5 C13,21.224 13.224,21 13.5,21 L28.5,21 C28.776,21 29,21.224 29,21.5 L29,21.5 C29,21.776 28.776,22 28.5,22 Z" id="Shape" fill="#FF9900"></path>
+                <path d="M10.5,26 L8.5,26 C8.224,26 8,25.776 8,25.5 L8,25.5 C8,25.224 8.224,25 8.5,25 L10.5,25 C10.776,25 11,25.224 11,25.5 L11,25.5 C11,25.776 10.776,26 10.5,26 Z" id="Shape" fill="#FF9900"></path>
+                <path d="M28.5,26 L13.5,26 C13.224,26 13,25.776 13,25.5 L13,25.5 C13,25.224 13.224,25 13.5,25 L28.5,25 C28.776,25 29,25.224 29,25.5 L29,25.5 C29,25.776 28.776,26 28.5,26 Z" id="Shape" fill="#FF9900"></path>
+            </g>
+        </g>
+    </g>
+</svg>

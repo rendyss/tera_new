@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="280px" height="278px" viewBox="0 3 254 252" enable-background="new 0 3 254 252" xml:space="preserve">
+<filter  height="157.4%" width="167.0%" id="filter-4" filterUnits="objectBoundingBox" y="-20.5%" x="-33.0%">
+	<feOffset  result="shadowOffsetOuter1" in="SourceAlpha" dy="10" dx="0"></feOffset>
+	<feGaussianBlur  stdDeviation="10" result="shadowBlurOuter1" in="shadowOffsetOuter1"></feGaussianBlur>
+	
+		<feColorMatrix  type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" result="shadowMatrixOuter1" in="shadowBlurOuter1">
+		</feColorMatrix>
+	<feMerge>
+		<feMergeNode  in="shadowMatrixOuter1"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<filter  height="124.1%" width="128.0%" id="filter-3" filterUnits="objectBoundingBox" y="-8.6%" x="-14.0%">
+	<feOffset  result="shadowOffsetOuter1" in="SourceAlpha" dy="2" dx="0"></feOffset>
+	<feGaussianBlur  stdDeviation="2" result="shadowBlurOuter1" in="shadowOffsetOuter1"></feGaussianBlur>
+	
+		<feColorMatrix  type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" result="shadowMatrixOuter1" in="shadowBlurOuter1">
+		</feColorMatrix>
+	<feMerge>
+		<feMergeNode  in="shadowMatrixOuter1"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<filter  height="124.1%" width="128.0%" id="filter-2" filterUnits="objectBoundingBox" y="-8.6%" x="-14.0%">
+	<feOffset  result="shadowOffsetOuter1" in="SourceAlpha" dy="2" dx="0"></feOffset>
+	<feGaussianBlur  stdDeviation="2" result="shadowBlurOuter1" in="shadowOffsetOuter1"></feGaussianBlur>
+	
+		<feColorMatrix  type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" result="shadowMatrixOuter1" in="shadowBlurOuter1">
+		</feColorMatrix>
+	<feMerge>
+		<feMergeNode  in="shadowMatrixOuter1"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<filter  height="126.9%" width="131.1%" id="filter-1" filterUnits="objectBoundingBox" y="-9.6%" x="-15.6%">
+	<feOffset  result="shadowOffsetOuter1" in="SourceAlpha" dy="4" dx="0"></feOffset>
+	<feGaussianBlur  stdDeviation="4" result="shadowBlurOuter1" in="shadowOffsetOuter1"></feGaussianBlur>
+	
+		<feColorMatrix  type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" result="shadowMatrixOuter1" in="shadowBlurOuter1">
+		</feColorMatrix>
+	<feMerge>
+		<feMergeNode  in="shadowMatrixOuter1"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<title>icon-competitive</title>
+<desc>Created with Sketch.</desc>
+<g id="Components">
+	<g id="Artboard" transform="translate(-1212.000000, -970.000000)">
+		<g id="icon-competitive" transform="translate(1220.000000, 974.000000)">
+			<g id="icon-proposal" filter="url(#filter-1)">
+				<g id="Group_4_">
+					<rect id="Rectangle-path_9_" x="2.369" y="2.877" fill="#FFFFFF" width="87.631" height="100.708"/>
+					<path id="Shape_39_" fill="#FF9900" d="M87.631,3.237v97.111H2.369V3.237H87.631L87.631,3.237z M90,0H0v103.585h90V0L90,0z"/>
+					<text transform="matrix(1 0 0 1 24.3203 85.3203)" fill="#FF9900" font-family="'ProximaNova-Regular'" font-size="13.5849">$2000</text>
+				</g>
+				<rect id="Rectangle-path_8_" x="2.369" y="2.358" fill="#FFD596" width="85.263" height="11.792"/>
+				<path id="Shape_38_" fill="#FF9900" d="M66.316,28.302h-45c-1.308,0-2.369-1.057-2.369-2.358l0,0
+					c0-1.302,1.061-2.358,2.369-2.358h45c1.307,0,2.368,1.057,2.368,2.358l0,0C68.684,27.245,67.623,28.302,66.316,28.302z"/>
+				<path id="Shape_37_" fill="#FF9900" d="M24.869,42.453h-4.737c-0.653,0-1.184-0.528-1.184-1.179l0,0
+					c0-0.651,0.531-1.179,1.184-1.179h4.737c0.653,0,1.184,0.528,1.184,1.179l0,0C26.053,41.924,25.522,42.453,24.869,42.453z"/>
+				<path id="Shape_36_" fill="#FF9900" d="M67.5,42.453H31.974c-0.654,0-1.184-0.528-1.184-1.179l0,0
+					c0-0.651,0.53-1.179,1.184-1.179H67.5c0.654,0,1.184,0.528,1.184,1.179l0,0C68.684,41.924,68.154,42.453,67.5,42.453z"/>
+				<path id="Shape_35_" fill="#FF9900" d="M24.869,51.887h-4.737c-0.653,0-1.184-0.528-1.184-1.179l0,0
+					c0-0.651,0.531-1.179,1.184-1.179h4.737c0.653,0,1.184,0.528,1.184,1.179l0,0C26.053,51.358,25.522,51.887,24.869,51.887z"/>
+				<path id="Shape_34_" fill="#FF9900" d="M67.5,51.887H31.974c-0.654,0-1.184-0.528-1.184-1.179l0,0
+					c0-0.651,0.53-1.179,1.184-1.179H67.5c0.654,0,1.184,0.528,1.184,1.179l0,0C68.684,51.358,68.154,51.887,67.5,51.887z"/>
+				<path id="Shape_33_" fill="#FF9900" d="M24.869,61.321h-4.737c-0.653,0-1.184-0.528-1.184-1.179l0,0
+					c0-0.651,0.531-1.179,1.184-1.179h4.737c0.653,0,1.184,0.528,1.184,1.179l0,0C26.053,60.792,25.522,61.321,24.869,61.321z"/>
+				<path id="Shape_32_" fill="#FF9900" d="M67.5,61.321H31.974c-0.654,0-1.184-0.528-1.184-1.179l0,0
+					c0-0.651,0.53-1.179,1.184-1.179H67.5c0.654,0,1.184,0.528,1.184,1.179l0,0C68.684,60.792,68.154,61.321,67.5,61.321z"/>
+			</g>
+			<g id="icon-proposal_1_" transform="translate(106.000000, 58.000000)" filter="url(#filter-2)">
+				<g id="Group_4_">
+					<rect id="Rectangle-path_9_" x="1.316" y="1.599" fill="#FFFFFF" width="48.684" height="55.949"/>
+					<path id="Shape_39_" fill="#FF9900" d="M48.684,1.798v53.951H1.316V1.798H48.684L48.684,1.798z M50,0H0v57.547h50V0L50,0z"/>
+					<text transform="matrix(1 0 0 1 14.623 47.623)" fill="#FF9900" font-family="'ProximaNova-Regular'" font-size="7.5472">$1900</text>
+				</g>
+				<rect id="Rectangle-path_8_" x="1.316" y="1.31" fill="#FFD596" width="47.368" height="6.552"/>
+				<path id="Shape_38_" fill="#FF9900" d="M36.842,15.723h-25c-0.727,0-1.316-0.587-1.316-1.31l0,0
+					c0-0.723,0.589-1.311,1.316-1.311h25c0.727,0,1.316,0.587,1.316,1.311l0,0C38.158,15.136,37.568,15.723,36.842,15.723z"/>
+				<path id="Shape_37_" fill="#FF9900" d="M13.816,23.585h-2.632c-0.363,0-0.658-0.293-0.658-0.655l0,0
+					c0-0.361,0.295-0.655,0.658-0.655h2.632c0.362,0,0.657,0.294,0.657,0.655l0,0C14.474,23.292,14.179,23.585,13.816,23.585z"/>
+				<path id="Shape_36_" fill="#FF9900" d="M37.5,23.585H17.764c-0.363,0-0.658-0.293-0.658-0.655l0,0
+					c0-0.361,0.295-0.655,0.658-0.655H37.5c0.363,0,0.658,0.294,0.658,0.655l0,0C38.158,23.292,37.863,23.585,37.5,23.585z"/>
+				<path id="Shape_35_" fill="#FF9900" d="M13.816,28.826h-2.632c-0.363,0-0.658-0.293-0.658-0.655l0,0
+					c0-0.362,0.295-0.655,0.658-0.655h2.632c0.362,0,0.657,0.293,0.657,0.655l0,0C14.474,28.533,14.179,28.826,13.816,28.826z"/>
+				<path id="Shape_34_" fill="#FF9900" d="M37.5,28.826H17.764c-0.363,0-0.658-0.293-0.658-0.655l0,0
+					c0-0.362,0.295-0.655,0.658-0.655H37.5c0.363,0,0.658,0.293,0.658,0.655l0,0C38.158,28.533,37.863,28.826,37.5,28.826z"/>
+				<path id="Shape_33_" fill="#FF9900" d="M13.816,34.067h-2.632c-0.363,0-0.658-0.293-0.658-0.655l0,0
+					c0-0.362,0.295-0.655,0.658-0.655h2.632c0.362,0,0.657,0.293,0.657,0.655l0,0C14.474,33.773,14.179,34.067,13.816,34.067z"/>
+				<path id="Shape_32_" fill="#FF9900" d="M37.5,34.067H17.764c-0.363,0-0.658-0.293-0.658-0.655l0,0
+					c0-0.362,0.295-0.655,0.658-0.655H37.5c0.363,0,0.658,0.293,0.658,0.655l0,0C38.158,33.773,37.863,34.067,37.5,34.067z"/>
+			</g>
+			<g id="icon-proposal_2_" transform="translate(20.000000, 131.000000)" filter="url(#filter-3)">
+				<g id="Group_4_">
+					<rect id="Rectangle-path_9_" x="1.316" y="1.599" fill="#FFFFFF" width="48.684" height="55.948"/>
+					<path id="Shape_39_" fill="#FF9900" d="M48.684,1.799v53.95H1.316V1.799H48.684L48.684,1.799z M50,0H0v57.547h50V0L50,0z"/>
+					<text transform="matrix(1 0 0 1 14.623 47.623)" fill="#FF9900" font-family="'ProximaNova-Regular'" font-size="7.5472">$2100</text>
+				</g>
+				<rect id="Rectangle-path_8_" x="1.316" y="1.311" fill="#FFD596" width="47.368" height="6.551"/>
+				<path id="Shape_38_" fill="#FF9900" d="M36.842,15.723h-25c-0.727,0-1.316-0.586-1.316-1.31l0,0
+					c0-0.724,0.589-1.311,1.316-1.311h25c0.726,0,1.315,0.587,1.315,1.311l0,0C38.158,15.137,37.568,15.723,36.842,15.723z"/>
+				<path id="Shape_37_" fill="#FF9900" d="M13.816,23.585h-2.632c-0.363,0-0.658-0.294-0.658-0.655l0,0
+					c0-0.361,0.295-0.655,0.658-0.655h2.632c0.363,0,0.658,0.294,0.658,0.655l0,0C14.474,23.291,14.179,23.585,13.816,23.585z"/>
+				<path id="Shape_36_" fill="#FF9900" d="M37.5,23.585H17.763c-0.363,0-0.658-0.294-0.658-0.655l0,0
+					c0-0.361,0.294-0.655,0.658-0.655H37.5c0.363,0,0.658,0.294,0.658,0.655l0,0C38.158,23.291,37.863,23.585,37.5,23.585z"/>
+				<path id="Shape_35_" fill="#FF9900" d="M13.816,28.826h-2.632c-0.363,0-0.658-0.293-0.658-0.655l0,0
+					c0-0.362,0.295-0.655,0.658-0.655h2.632c0.363,0,0.658,0.293,0.658,0.655l0,0C14.474,28.533,14.179,28.826,13.816,28.826z"/>
+				<path id="Shape_34_" fill="#FF9900" d="M37.5,28.826H17.763c-0.363,0-0.658-0.293-0.658-0.655l0,0
+					c0-0.362,0.294-0.655,0.658-0.655H37.5c0.363,0,0.658,0.293,0.658,0.655l0,0C38.158,28.533,37.863,28.826,37.5,28.826z"/>
+				<path id="Shape_33_" fill="#FF9900" d="M13.816,34.066h-2.632c-0.363,0-0.658-0.293-0.658-0.654l0,0
+					c0-0.361,0.295-0.655,0.658-0.655h2.632c0.363,0,0.658,0.294,0.658,0.655l0,0C14.474,33.773,14.179,34.066,13.816,34.066z"/>
+				<path id="Shape_32_" fill="#FF9900" d="M37.5,34.066H17.763c-0.363,0-0.658-0.293-0.658-0.654l0,0
+					c0-0.361,0.294-0.655,0.658-0.655H37.5c0.363,0,0.658,0.294,0.658,0.655l0,0C38.158,33.773,37.863,34.066,37.5,34.066z"/>
+			</g>
+			<g id="icon-proposal_3_" transform="translate(120.000000, 99.000000)" filter="url(#filter-4)">
+				<g id="Group_4_">
+					<rect id="Rectangle-path_9_" x="2.789" y="3.389" fill="#FFFFFF" width="103.211" height="118.611"/>
+					<path id="Shape_39_" fill="#FF9900" d="M103.211,3.813v114.375H2.789V3.813H103.211L103.211,3.813z M106,0H0v122h106V0L106,0z"
+						/>
+					<text transform="matrix(1 0 0 1 31 100)" fill="#FF9900" font-family="'ProximaNova-Regular'" font-size="16">$1900</text>
+				</g>
+				<rect id="Rectangle-path_8_" x="2.789" y="2.778" fill="#FFD596" width="100.422" height="13.889"/>
+				<path id="Shape_38_" fill="#FF9900" d="M78.105,33.334h-53c-1.54,0-2.789-1.245-2.789-2.778l0,0
+					c0-1.533,1.249-2.778,2.789-2.778h53c1.539,0,2.789,1.245,2.789,2.778l0,0C80.895,32.089,79.645,33.334,78.105,33.334z"/>
+				<path id="Shape_37_" fill="#FF9900" d="M29.289,50h-5.578c-0.771,0-1.395-0.622-1.395-1.389l0,0
+					c0-0.768,0.624-1.389,1.395-1.389h5.578c0.771,0,1.395,0.621,1.395,1.389l0,0C30.684,49.378,30.06,50,29.289,50z"/>
+				<path id="Shape_36_" fill="#FF9900" d="M79.5,50H37.658c-0.77,0-1.395-0.622-1.395-1.389l0,0c0-0.768,0.625-1.389,1.395-1.389
+					H79.5c0.77,0,1.395,0.621,1.395,1.389l0,0C80.895,49.378,80.27,50,79.5,50z"/>
+				<path id="Shape_35_" fill="#FF9900" d="M29.289,61.111h-5.578c-0.771,0-1.395-0.623-1.395-1.389l0,0
+					c0-0.768,0.624-1.389,1.395-1.389h5.578c0.771,0,1.395,0.621,1.395,1.389l0,0C30.684,60.488,30.06,61.111,29.289,61.111z"/>
+				<path id="Shape_34_" fill="#FF9900" d="M79.5,61.111H37.658c-0.77,0-1.395-0.623-1.395-1.389l0,0
+					c0-0.768,0.625-1.389,1.395-1.389H79.5c0.77,0,1.395,0.621,1.395,1.389l0,0C80.895,60.488,80.27,61.111,79.5,61.111z"/>
+				<path id="Shape_33_" fill="#FF9900" d="M29.289,72.223h-5.578c-0.771,0-1.395-0.623-1.395-1.389l0,0
+					c0-0.768,0.624-1.39,1.395-1.39h5.578c0.771,0,1.395,0.622,1.395,1.39l0,0C30.684,71.6,30.06,72.223,29.289,72.223z"/>
+				<path id="Shape_32_" fill="#FF9900" d="M79.5,72.223H37.658c-0.77,0-1.395-0.623-1.395-1.389l0,0c0-0.768,0.625-1.39,1.395-1.39
+					H79.5c0.77,0,1.395,0.622,1.395,1.39l0,0C80.895,71.6,80.27,72.223,79.5,72.223z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

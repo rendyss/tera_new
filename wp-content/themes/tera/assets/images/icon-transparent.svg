@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="146px" height="191.167px" viewBox="0 -15.167 146 191.167" enable-background="new 0 -15.167 146 191.167"
+	 xml:space="preserve">
+<filter  height="157.4%" width="167.0%" id="filter-3" filterUnits="objectBoundingBox" y="-20.5%" x="-33.0%">
+	<feOffset  result="shadowOffsetOuter1" in="SourceAlpha" dy="10" dx="0"></feOffset>
+	<feGaussianBlur  stdDeviation="10" result="shadowBlurOuter1" in="shadowOffsetOuter1"></feGaussianBlur>
+	
+		<feColorMatrix  type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" result="shadowMatrixOuter1" in="shadowBlurOuter1">
+		</feColorMatrix>
+	<feMerge>
+		<feMergeNode  in="shadowMatrixOuter1"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<filter  height="161.9%" width="174.0%" id="filter-2" filterUnits="objectBoundingBox" y="-22.1%" x="-36.5%">
+	<feOffset  result="shadowOffsetOuter1" in="SourceAlpha" dy="10" dx="0"></feOffset>
+	<feGaussianBlur  stdDeviation="10" result="shadowBlurOuter1" in="shadowOffsetOuter1"></feGaussianBlur>
+	
+		<feColorMatrix  type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" result="shadowMatrixOuter1" in="shadowBlurOuter1">
+		</feColorMatrix>
+	<feMerge>
+		<feMergeNode  in="shadowMatrixOuter1"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<filter  height="164.8%" width="178.0%" id="filter-1" filterUnits="objectBoundingBox" y="-23.1%" x="-38.5%">
+	<feOffset  result="shadowOffsetOuter1" in="SourceAlpha" dy="10" dx="0"></feOffset>
+	<feGaussianBlur  stdDeviation="10" result="shadowBlurOuter1" in="shadowOffsetOuter1"></feGaussianBlur>
+	
+		<feColorMatrix  type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" result="shadowMatrixOuter1" in="shadowBlurOuter1">
+		</feColorMatrix>
+	<feMerge>
+		<feMergeNode  in="shadowMatrixOuter1"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<title>icon-transparent</title>
+<desc>Created with Sketch.</desc>
+<g id="Components">
+	<g id="Artboard" transform="translate(-1246.000000, -480.000000)">
+		<g id="icon-transparent" transform="translate(1266.000000, 490.000000)">
+			<g id="icon-proposal" transform="translate(8.000000, 0.000000)" filter="url(#filter-1)">
+				<g id="Group_3_">
+					<rect id="Rectangle-path_7_" x="2.395" y="2.894" fill="#FFFFFF" width="88.605" height="101.266"/>
+					<path id="Shape_31_" fill="#FF9900" d="M88.605,3.255v97.649H2.395V3.255H88.605L88.605,3.255z M91,0H0v104.159h91V0L91,0z"/>
+					<text transform="matrix(1 0 0 1 26.6133 85.8223)" fill="#FF9900" font-family="'ProximaNova-Regular'" font-size="16">$190</text>
+					<text transform="matrix(1 0 0 1 60.7725 85.8223)" fill="#FF9900" font-family="'ProximaNova-Regular'" font-size="16"> </text>
+					<text transform="matrix(1 0 0 1 26.6133 104.8223)" fill="#FF9900" font-family="'ProximaNova-Regular'" font-size="16">0</text>
+				</g>
+				<rect id="Rectangle-path_6_" x="3" y="3" fill="#FFD596" width="86" height="12"/>
+				<path id="Shape_30_" fill="#FF9900" d="M66.619,29H21.381C20.067,29,19,27.88,19,26.5l0,0c0-1.38,1.067-2.5,2.381-2.5h45.238
+					C67.934,24,69,25.12,69,26.5l0,0C69,27.88,67.934,29,66.619,29z"/>
+				<path id="Shape_29_" fill="#FF9900" d="M25.667,44h-5.333C19.597,44,19,43.328,19,42.5l0,0c0-0.828,0.597-1.5,1.333-1.5h5.333
+					C26.403,41,27,41.672,27,42.5l0,0C27,43.328,26.403,44,25.667,44z"/>
+				<path id="Shape_28_" fill="#FF9900" d="M67.813,44H32.188C31.532,44,31,43.328,31,42.5l0,0c0-0.828,0.532-1.5,1.188-1.5h35.625
+					C68.468,41,69,41.672,69,42.5l0,0C69,43.328,68.468,44,67.813,44z"/>
+				<path id="Shape_27_" fill="#FF9900" d="M25.667,53h-5.333C19.597,53,19,52.328,19,51.5l0,0c0-0.828,0.597-1.5,1.333-1.5h5.333
+					C26.403,50,27,50.672,27,51.5l0,0C27,52.328,26.403,53,25.667,53z"/>
+				<path id="Shape_26_" fill="#FF9900" d="M67.813,53H32.188C31.532,53,31,52.328,31,51.5l0,0c0-0.828,0.532-1.5,1.188-1.5h35.625
+					C68.468,50,69,50.672,69,51.5l0,0C69,52.328,68.468,53,67.813,53z"/>
+				<path id="Shape_25_" fill="#FF9900" d="M25.667,63h-5.333C19.597,63,19,62.328,19,61.5l0,0c0-0.828,0.597-1.5,1.333-1.5h5.333
+					C26.403,60,27,60.672,27,61.5l0,0C27,62.328,26.403,63,25.667,63z"/>
+				<path id="Shape_24_" fill="#FF9900" d="M67.813,63H32.188C31.532,63,31,62.328,31,61.5l0,0c0-0.828,0.532-1.5,1.188-1.5h35.625
+					C68.468,60,69,60.672,69,61.5l0,0C69,62.328,68.468,63,67.813,63z"/>
+			</g>
+			<g id="icon-proposal_1_" transform="translate(5.000000, 6.000000)" filter="url(#filter-2)">
+				<g id="Group_3_">
+					<rect id="Rectangle-path_7_" x="2.526" y="3.056" fill="#FFFFFF" width="93.474" height="106.944"/>
+					<path id="Shape_31_" fill="#FF9900" d="M93.474,3.438v103.125H2.526V3.438H93.474L93.474,3.438z M96,0H0v110h96V0L96,0z"/>
+					<text transform="matrix(1 0 0 1 28.0752 90.8037)" fill="#FF9900" font-family="'ProximaNova-Regular'" font-size="16">$190</text>
+					<text transform="matrix(1 0 0 1 62.2344 90.8037)" fill="#FF9900" font-family="'ProximaNova-Regular'" font-size="16"> </text>
+					<text transform="matrix(1 0 0 1 28.0752 109.8037)" fill="#FF9900" font-family="'ProximaNova-Regular'" font-size="16">0</text>
+				</g>
+				<rect id="Rectangle-path_6_" x="3" y="3" fill="#FFD596" width="91" height="13"/>
+				<path id="Shape_30_" fill="#FF9900" d="M70.477,30H22.524C21.131,30,20,28.88,20,27.5l0,0c0-1.38,1.131-2.5,2.524-2.5h47.953
+					C71.869,25,73,26.12,73,27.5l0,0C73,28.88,71.869,30,70.477,30z"/>
+				<path id="Shape_29_" fill="#FF9900" d="M26.667,46h-5.333C20.597,46,20,45.328,20,44.5l0,0c0-0.828,0.597-1.5,1.333-1.5h5.333
+					C27.403,43,28,43.672,28,44.5l0,0C28,45.328,27.403,46,26.667,46z"/>
+				<path id="Shape_28_" fill="#FF9900" d="M71.75,46h-37.5C33.56,46,33,45.328,33,44.5l0,0c0-0.828,0.56-1.5,1.25-1.5h37.5
+					c0.689,0,1.25,0.672,1.25,1.5l0,0C73,45.328,72.439,46,71.75,46z"/>
+				<path id="Shape_27_" fill="#FF9900" d="M26.667,56h-5.333C20.597,56,20,55.328,20,54.5l0,0c0-0.828,0.597-1.5,1.333-1.5h5.333
+					C27.403,53,28,53.672,28,54.5l0,0C28,55.328,27.403,56,26.667,56z"/>
+				<path id="Shape_26_" fill="#FF9900" d="M71.75,56h-37.5C33.56,56,33,55.328,33,54.5l0,0c0-0.828,0.56-1.5,1.25-1.5h37.5
+					c0.689,0,1.25,0.672,1.25,1.5l0,0C73,55.328,72.439,56,71.75,56z"/>
+				<path id="Shape_25_" fill="#FF9900" d="M26.667,66h-5.333C20.597,66,20,65.328,20,64.5l0,0c0-0.828,0.597-1.5,1.333-1.5h5.333
+					C27.403,63,28,63.672,28,64.5l0,0C28,65.328,27.403,66,26.667,66z"/>
+				<path id="Shape_24_" fill="#FF9900" d="M71.75,66h-37.5C33.56,66,33,65.328,33,64.5l0,0c0-0.828,0.56-1.5,1.25-1.5h37.5
+					c0.689,0,1.25,0.672,1.25,1.5l0,0C73,65.328,72.439,66,71.75,66z"/>
+			</g>
+			<g id="icon-proposal_2_" transform="translate(0.000000, 14.000000)" filter="url(#filter-3)">
+				<g id="Group_3_">
+					<rect id="Rectangle-path_7_" x="2.79" y="3.389" fill="#FFFFFF" width="103.21" height="118.611"/>
+					<path id="Shape_31_" fill="#FF9900" d="M103.211,3.813v114.375H2.79V3.813H103.211L103.211,3.813z M106,0H0v122h106V0L106,0z"
+						/>
+					<text transform="matrix(1 0 0 1 31 100)" fill="#FF9900" font-family="'ProximaNova-Regular'" font-size="16">$1900</text>
+				</g>
+				<rect id="Rectangle-path_6_" x="2.79" y="2.778" fill="#FFD596" width="100.421" height="13.889"/>
+				<path id="Shape_30_" fill="#FF9900" d="M78.105,33.333h-53c-1.54,0-2.79-1.245-2.79-2.778l0,0c0-1.533,1.25-2.778,2.79-2.778h53
+					c1.539,0,2.789,1.245,2.789,2.778l0,0C80.895,32.089,79.645,33.333,78.105,33.333z"/>
+				<path id="Shape_29_" fill="#FF9900" d="M29.29,50H23.71c-0.77,0-1.395-0.622-1.395-1.389l0,0c0-0.767,0.625-1.389,1.395-1.389
+					h5.579c0.77,0,1.395,0.622,1.395,1.389l0,0C30.684,49.378,30.06,50,29.29,50z"/>
+				<path id="Shape_28_" fill="#FF9900" d="M79.5,50H37.658c-0.77,0-1.395-0.622-1.395-1.389l0,0c0-0.767,0.625-1.389,1.395-1.389
+					H79.5c0.77,0,1.395,0.622,1.395,1.389l0,0C80.895,49.378,80.27,50,79.5,50z"/>
+				<path id="Shape_27_" fill="#FF9900" d="M29.29,61.111H23.71c-0.77,0-1.395-0.623-1.395-1.389l0,0
+					c0-0.767,0.625-1.389,1.395-1.389h5.579c0.77,0,1.395,0.622,1.395,1.389l0,0C30.684,60.489,30.06,61.111,29.29,61.111z"/>
+				<path id="Shape_26_" fill="#FF9900" d="M79.5,61.111H37.658c-0.77,0-1.395-0.623-1.395-1.389l0,0
+					c0-0.767,0.625-1.389,1.395-1.389H79.5c0.77,0,1.395,0.622,1.395,1.389l0,0C80.895,60.489,80.27,61.111,79.5,61.111z"/>
+				<path id="Shape_25_" fill="#FF9900" d="M29.29,72.223H23.71c-0.77,0-1.395-0.623-1.395-1.389l0,0c0-0.768,0.625-1.39,1.395-1.39
+					h5.579c0.77,0,1.395,0.622,1.395,1.39l0,0C30.684,71.6,30.06,72.223,29.29,72.223z"/>
+				<path id="Shape_24_" fill="#FF9900" d="M79.5,72.223H37.658c-0.77,0-1.395-0.623-1.395-1.389l0,0c0-0.768,0.625-1.39,1.395-1.39
+					H79.5c0.77,0,1.395,0.622,1.395,1.39l0,0C80.895,71.6,80.27,72.223,79.5,72.223z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

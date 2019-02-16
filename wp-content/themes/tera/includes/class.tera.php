@@ -25,6 +25,8 @@ if ( ! class_exists( 'Class_Tera' ) ) {
 			$this->_load_assets_public();
 			$this->_load_cpt();
 			$this->_load_metabox();
+			$this->_load_cf();
+			$this->_load_template();
 		}
 
 		private function _load_assets_public() {
@@ -41,6 +43,15 @@ if ( ! class_exists( 'Class_Tera' ) ) {
 			require_once get_template_directory() . '/includes/meta-box/inc/loader.php';
 			$rwmb_loader = new RWMB_Loader();
 			$rwmb_loader->init();
+		}
+
+		private function _load_cf() {
+			require_once get_template_directory() . '/includes/class.tera-cf.php';
+			Class_Tera_CF::init();
+		}
+
+		private function _load_template() {
+			require_once get_template_directory() . '/includes/class.tera-template.php';
 		}
 	}
 }
