@@ -27,6 +27,12 @@ if ( ! class_exists( 'Class_Tera' ) ) {
 			$this->_load_metabox();
 			$this->_load_cf();
 			$this->_load_template();
+			$this->_load_hooks();
+		}
+
+		private function _load_hooks() {
+			require_once get_template_directory() . '/includes/class.tera-hooks.php';
+			Class_Tera_Hooks::init();
 		}
 
 		private function _load_assets_public() {
